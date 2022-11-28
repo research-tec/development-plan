@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T20:25:37.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="p5Kzq88YuoAc3nLnrlyh" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-28T21:17:37.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Jm-FMQqPiZ4EjDT-bHio" version="20.6.0" type="github" pages="2">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="6203" dy="2003" grid="1" gridSize="19.685" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -378,7 +378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aDn48H8wBhEVfrkdbMKg" name="Страница 2">
-    <mxGraphModel dx="3742" dy="1122" grid="1" gridSize="19.685" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3897" dy="1181" grid="1" gridSize="19.685" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -399,6 +399,9 @@
         <mxCell id="qdbsdhMth999d0uy1pwQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="5Kg1sqvMoHo36plX70na-1" target="qdbsdhMth999d0uy1pwQ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qdbsdhMth999d0uy1pwQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="5Kg1sqvMoHo36plX70na-1" target="qdbsdhMth999d0uy1pwQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5Kg1sqvMoHo36plX70na-1" value="Доработка камер" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-157.475" y="314.965" width="236.24" height="78.74" as="geometry" />
         </mxCell>
@@ -417,8 +420,8 @@
         <mxCell id="5Kg1sqvMoHo36plX70na-9" value="Разработка ложемента" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="393.70000000000005" y="866.15" width="236.24" height="78.74" as="geometry" />
         </mxCell>
-        <mxCell id="5Kg1sqvMoHo36plX70na-11" value="Выбор сальника" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="826.77" y="472.43999999999994" width="236.24" height="78.74" as="geometry" />
+        <mxCell id="5Kg1sqvMoHo36plX70na-11" value="Выбор сальника" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-78.74000000000001" y="1338.58" width="236.24" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="qdbsdhMth999d0uy1pwQ-1" value="Олег" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-629.9250000000001" y="610.245" width="236.24" height="78.74" as="geometry" />
@@ -432,34 +435,37 @@
         <mxCell id="qdbsdhMth999d0uy1pwQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="qdbsdhMth999d0uy1pwQ-8" target="qdbsdhMth999d0uy1pwQ-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-98.005" y="1535.6149999999998" />
+              <mxPoint x="925.615" y="511.9949999999998" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qdbsdhMth999d0uy1pwQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="qdbsdhMth999d0uy1pwQ-8" target="qdbsdhMth999d0uy1pwQ-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-98.005" y="1929.6149999999998" />
+              <mxPoint x="925.615" y="905.9949999999998" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qdbsdhMth999d0uy1pwQ-8" value="Доработка фонарей" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-157.48" y="1338.58" width="236.24" height="78.74" as="geometry" />
+          <mxGeometry x="866.14" y="314.9599999999999" width="236.24" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="qdbsdhMth999d0uy1pwQ-9" value="Доработка корпуса" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-78.74499999999999" y="1496.0549999999998" width="236.24" height="78.74" as="geometry" />
+          <mxGeometry x="944.875" y="472.43499999999983" width="236.24" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="qdbsdhMth999d0uy1pwQ-10" value="Переработка корпуса под новый сальник&lt;br&gt;Переработка корпуса под новое стекло??" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-0.0049999999999954525" y="1594.485" width="236.24" height="157.48" as="geometry" />
+          <mxGeometry x="1023.615" y="570.8649999999999" width="236.24" height="157.48" as="geometry" />
         </mxCell>
         <mxCell id="qdbsdhMth999d0uy1pwQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="qdbsdhMth999d0uy1pwQ-12" target="qdbsdhMth999d0uy1pwQ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qdbsdhMth999d0uy1pwQ-12" value="Выбор кейса под фонари" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-78.73999999999998" y="1889.7599999999998" width="236.24" height="78.74" as="geometry" />
+          <mxGeometry x="944.88" y="866.1399999999998" width="236.24" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="qdbsdhMth999d0uy1pwQ-13" value="Разработка ложемента" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="393.69500000000005" y="1889.7649999999999" width="236.24" height="78.74" as="geometry" />
+          <mxGeometry x="1417.315" y="866.1449999999999" width="236.24" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="qdbsdhMth999d0uy1pwQ-15" value="Выбор других камер?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-78.74000000000012" y="1181.1" width="236.24" height="78.74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
