@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T12:56:23.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zMF6NI0TIMg5ogRIxwkw" version="20.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-16T12:59:39.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mtndo03Yd1EvXCWRVFbS" version="20.7.3" type="github" pages="2">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="4035" dy="3652" grid="1" gridSize="19.685" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -432,7 +432,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aDn48H8wBhEVfrkdbMKg" name="Страница 2">
-    <mxGraphModel dx="2944" dy="1873" grid="1" gridSize="19.685" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3642" dy="2302" grid="1" gridSize="19.685" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -540,17 +540,6 @@
         <mxCell id="vLlYNC7nVuOH3ThAOScL-1" value="Камера(Задачи)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-78.73500000000001" y="1574.805" width="236.24" height="78.74" as="geometry" />
         </mxCell>
-        <mxCell id="vLlYNC7nVuOH3ThAOScL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="vLlYNC7nVuOH3ThAOScL-2" target="vLlYNC7nVuOH3ThAOScL-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="669" y="1772" />
-              <mxPoint x="669" y="1929" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vLlYNC7nVuOH3ThAOScL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="vLlYNC7nVuOH3ThAOScL-2" target="vLlYNC7nVuOH3ThAOScL-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vLlYNC7nVuOH3ThAOScL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="vLlYNC7nVuOH3ThAOScL-2" target="vLlYNC7nVuOH3ThAOScL-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -585,13 +574,18 @@
           <mxGeometry x="78.8" y="2598.4200000000005" width="236.24" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="vLlYNC7nVuOH3ThAOScL-9" value="Изготовление мастер-модели для создания формы под отливку" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="787.415" y="1732.285" width="236.24" height="78.74" as="geometry" />
+          <mxGeometry x="1574.795" y="1732.275" width="236.24" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ8rAOh0qwJG0oHeNvFa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vLlYNC7nVuOH3ThAOScL-10" target="wZ8rAOh0qwJG0oHeNvFa-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1023.6199999999999" y="1771.6500000000005" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vLlYNC7nVuOH3ThAOScL-10" value="Изменение габаритов&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="393.61" y="1791.3300000000002" width="236.24" height="78.74" as="geometry" />
+          <mxGeometry x="393.72" y="1732.2800000000002" width="236.24" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="vLlYNC7nVuOH3ThAOScL-11" value="Изготовление стекл из акрила/поликарбоната" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="787.405" y="1889.7450000000001" width="236.24" height="78.74" as="geometry" />
+          <mxGeometry x="1574.795" y="1889.765" width="236.24" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="vLlYNC7nVuOH3ThAOScL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="vLlYNC7nVuOH3ThAOScL-16" target="vLlYNC7nVuOH3ThAOScL-18" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -671,8 +665,16 @@
         <mxCell id="vLlYNC7nVuOH3ThAOScL-44" value="Определение внешнего контура платы" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="393.595" y="2047.245" width="236.24" height="78.74" as="geometry" />
         </mxCell>
+        <mxCell id="wZ8rAOh0qwJG0oHeNvFa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="vLlYNC7nVuOH3ThAOScL-45" target="wZ8rAOh0qwJG0oHeNvFa-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="905" y="1870" />
+              <mxPoint x="905" y="1772" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vLlYNC7nVuOH3ThAOScL-45" value="Крепление IP камеры в основании" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="393.71" y="1889.75" width="236.24" height="78.74" as="geometry" />
+          <mxGeometry x="393.71999999999997" y="1830.71" width="236.24" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="vLlYNC7nVuOH3ThAOScL-47" value="Трассировка модуля DC-DC преобразователя для последующего использования с аналогичными целями" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="393.58" y="2145.67" width="236.24" height="98.43" as="geometry" />
@@ -701,6 +703,9 @@
         <mxCell id="wZ8rAOh0qwJG0oHeNvFa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="wZ8rAOh0qwJG0oHeNvFa-1" target="wZ8rAOh0qwJG0oHeNvFa-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wZ8rAOh0qwJG0oHeNvFa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="wZ8rAOh0qwJG0oHeNvFa-1" target="wZ8rAOh0qwJG0oHeNvFa-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wZ8rAOh0qwJG0oHeNvFa-1" value="Пайка платы камеры" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="787.41" y="2047.2499999999995" width="236.24" height="78.74" as="geometry" />
         </mxCell>
@@ -717,6 +722,15 @@
         </mxCell>
         <mxCell id="wZ8rAOh0qwJG0oHeNvFa-8" value="Изготовление ложемента" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="393.72" y="2834.6300000000006" width="236.24" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ8rAOh0qwJG0oHeNvFa-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="wZ8rAOh0qwJG0oHeNvFa-10" target="vLlYNC7nVuOH3ThAOScL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ8rAOh0qwJG0oHeNvFa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="wZ8rAOh0qwJG0oHeNvFa-10" target="vLlYNC7nVuOH3ThAOScL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ8rAOh0qwJG0oHeNvFa-10" value="Сборка тестовой камеры" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1181.0799999999997" y="1732.2799999999995" width="236.24" height="78.74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
