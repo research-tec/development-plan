@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T22:02:45.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="596aD48XhR81i854WRjC" version="20.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-16T22:06:58.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TPrm3NmoAy886idkHaA0" version="20.7.2" type="github" pages="3">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="4593" dy="2245" grid="1" gridSize="19.685" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -463,7 +463,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aDn48H8wBhEVfrkdbMKg" name="Разработка камер и фонарей">
-    <mxGraphModel dx="4163" dy="451" grid="1" gridSize="19.685" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4971" dy="902" grid="1" gridSize="19.685" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -687,8 +687,56 @@
         <mxCell id="wZ8rAOh0qwJG0oHeNvFa-10" value="Сборка тестовой камеры" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1181.0799999999997" y="1732.2799999999995" width="236.24" height="78.74" as="geometry" />
         </mxCell>
-        <mxCell id="F7pQJxXVZxhMQco84ahV-1" value="Плата камеры" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="F7pQJxXVZxhMQco84ahV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7pQJxXVZxhMQco84ahV-1" target="F7pQJxXVZxhMQco84ahV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7pQJxXVZxhMQco84ahV-1" target="F7pQJxXVZxhMQco84ahV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7pQJxXVZxhMQco84ahV-1" target="F7pQJxXVZxhMQco84ahV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7pQJxXVZxhMQco84ahV-1" target="F7pQJxXVZxhMQco84ahV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7pQJxXVZxhMQco84ahV-1" target="F7pQJxXVZxhMQco84ahV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7pQJxXVZxhMQco84ahV-1" target="F7pQJxXVZxhMQco84ahV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7pQJxXVZxhMQco84ahV-1" target="F7pQJxXVZxhMQco84ahV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7pQJxXVZxhMQco84ahV-1" target="F7pQJxXVZxhMQco84ahV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-1" value="Тепловизионный модуль" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="78.66" y="2992.12" width="236.24" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-4" value="Создание отладочной платы матрицы" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="393.57500000000005" y="2992.115" width="236.24" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-5" value="Отладка тепловизионного модуля" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="393.72" y="3307.08" width="236.24" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-6" value="Передача изображения с матрицы по Ethernet" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="393.575" y="3149.6049999999996" width="236.24" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-7" value="Наложения тепловизионного изображения&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="393.56999999999994" y="3464.5599999999995" width="236.24" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-8" value="Приложение/интерфейс/протокол для настройки модуля" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="393.72499999999997" y="3622.035" width="236.24" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-9" value="Разработка корпуса камеры" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="393.73" y="3779.52" width="236.24" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-10" value="Разработка платы&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="393.565" y="3936.995" width="236.24" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="F7pQJxXVZxhMQco84ahV-11" value="Отладка модуля" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="393.55999999999995" y="4094.48" width="236.24" height="78.74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
